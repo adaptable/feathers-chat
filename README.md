@@ -1,5 +1,6 @@
 # feathers-chat
 
+
 [![CI](https://github.com/feathersjs/feathers-chat/workflows/CI/badge.svg)](https://github.com/feathersjs/feathers-chat/actions?query=workflow%3ACI)
 
 > A FeathersJS chat application
