@@ -3,6 +3,7 @@ const logger = require('./logger');
 const { createApp, startApp } = require('./app');
 
 logger.info(`Starting on Node ${process.version}`);
+logger.info(`Testing...`);
 
 process.on('unhandledRejection', (reason, p) =>
   logger.error('Unhandled Rejection at: Promise ', p, reason)
